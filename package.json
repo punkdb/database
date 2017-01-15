@@ -1,0 +1,11 @@
+{
+  "name": "scraper",
+  "version": "0.1.0",
+  "description": "Consumer for MusicBrainz web service.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "punkdb",
+  "license": "ISC",
+}
